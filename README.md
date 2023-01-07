@@ -1,1 +1,1 @@
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/scr4ck/scr4ck/blob/output/github-contribution-grid-snake.gif)
